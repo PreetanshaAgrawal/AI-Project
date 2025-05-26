@@ -1,3 +1,5 @@
+# Chatbot using Ollama module
+
 # import ollama
 
 # client = ollama.Client()
@@ -10,7 +12,8 @@
 
 #     print(f"Bot: {response.response}")
     
-    
+
+# Chatbot using Ollama API
 import requests
 import json
 
